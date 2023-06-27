@@ -1,0 +1,12 @@
+for design : http://preview.themeforest.net/item/love-travel-creative-travel-agency-wordpress/full_screen_preview/7704831
+
+name : Wander and Explore
+color primary : #3DD6D0
+
+build : build blog website about travel and best destnations using cms to add and manage the shit
+
+pages : 
+
+home page
+best destinations in the world,
+blog page talking about travel tips and other stuff 
